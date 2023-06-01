@@ -90,6 +90,7 @@ img{
 footer{
     background-color: black;
     color: #fff;
+    display: flex;
 }
 
 .rodape{
