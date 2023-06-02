@@ -84,9 +84,17 @@ p{
 
 img{
    width: 40%;
-   margin-left: 400px;
+   margin-left: 380px; 
 }
 
+#diaADia img{
+    margin-bottom: 20px;
+}
+
+#tecnologia img{
+  margin-left: 330px;
+  
+}
 
 footer{
     background-color: black;
