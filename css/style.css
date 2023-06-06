@@ -8,8 +8,9 @@
 
 
 body{
+    min-height: 100vh;
     font-family: 'Cabin Sketch';
-    background-image: linear-gradient(to right,rgb(49, 174, 47),rgb(199, 233, 6),rgb(81, 230, 6));
+    background-color: #d8c5a3;
 }
 
 .titulo{
@@ -78,4 +79,30 @@ h2{
 p{
     margin: 20px;
     text-indent: 40px;
+    text-align: justify;
 }
+
+img{
+   width: 40%;
+   margin-left: 380px; 
+}
+
+#diaADia img{
+    margin-bottom: 20px;
+}
+
+#tecnologia img{
+  margin-left: 330px;
+  
+}
+
+footer{
+    background-color: black;
+    color: #fff;
+    display: flex;
+}
+
+.rodape{
+    flex: 2;
+}
+
